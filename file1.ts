@@ -1,1 +1,3 @@
-export const func1 = () => {};
+export const func1 = () => {
+  console.log(1);
+};
